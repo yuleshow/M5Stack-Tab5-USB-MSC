@@ -7,7 +7,7 @@
  * Three framework bugs must be patched before this will work.
  * See patches/README.md and the project README for details.
  *
- * SPDX-License-Identifier: MIT
+ * SPDX-License-Identifier: GPL-2.0
  */
 
 #include <M5Unified.h>

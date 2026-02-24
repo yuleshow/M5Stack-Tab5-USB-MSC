@@ -10,7 +10,7 @@ reader needed.
 
 ![Platform](https://img.shields.io/badge/platform-ESP32--P4-blue)
 ![Framework](https://img.shields.io/badge/framework-Arduino-green)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![License](https://img.shields.io/badge/license-GPL--2.0-blue)
 
 ---
 
@@ -218,4 +218,4 @@ The firmware performs these steps in `initUsbMsc()`:
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+GPL-2.0 — see [LICENSE](LICENSE).
