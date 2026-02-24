@@ -194,8 +194,7 @@ The firmware performs these steps in `initUsbMsc()`:
 
 - **Hardware:** M5Stack Tab5 (ESP32-P4)
 - **Framework:** pioarduino `54.03.21`
-- **Host OS:** macOS Sequoia 15.x (also works on Windows 11 and Linux)
-- **SD cards:** 32 GB FAT32, 64 GB exFAT
+- **Host OS:** macOS
 
 ---
 
